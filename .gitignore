@@ -1,0 +1,12 @@
+*.deb
+Testing/*
+*.tar
+*.gz
+*~
+history.txt
+bundles/*
+**/stmv/*
+**/apoa1/*
+**/f1atpase/*
+**/spack-mirror/*
+
